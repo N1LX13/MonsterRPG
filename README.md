@@ -14,20 +14,20 @@ A compact monster-catching RPG featuring 16 unique monsters, experience (XP) pro
 - Captures depend on monster HP and rarity — weaken foes without knocking them out.
 
 ## Monsters
-EmberCub
-MossBit
-VoltFin
-Dustling
-FrostFox
-BloomBat
-Rockodile
-ShadowKit
-Aquadrake
-MushFrog
-Crystabug
-CloudRam
-MagmaNew
-MoonOwl
-VineSerp
+- EmberCub
+- MossBit
+- VoltFin
+- Dustling
+- FrostFox
+- BloomBat
+- Rockodile
+- ShadowKit
+- Aquadrake
+- MushFrog
+- Crystabug
+- CloudRam
+- MagmaNew
+- MoonOwl
+- VineSerp
 StarHare
 
