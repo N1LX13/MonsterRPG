@@ -29,5 +29,5 @@ A compact monster-catching RPG featuring 16 unique monsters, experience (XP) pro
 - MagmaNew
 - MoonOwl
 - VineSerp
-StarHare
+- StarHare
 
