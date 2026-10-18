@@ -13,15 +13,21 @@ A compact monster-catching RPG featuring 16 unique monsters, experience (XP) pro
 - Winning battles grants XP; monsters and the player level up to improve stats.
 - Captures depend on monster HP and rarity — weaken foes without knocking them out.
 
-## Quick start
-1. Clone the repo
-2. Run the game executable or start the main script
-3. Follow on-screen prompts to create a player and begin your adventure
+## Monsters
+EmberCub
+MossBit
+VoltFin
+Dustling
+FrostFox
+BloomBat
+Rockodile
+ShadowKit
+Aquadrake
+MushFrog
+Crystabug
+CloudRam
+MagmaNew
+MoonOwl
+VineSerp
+StarHare
 
-## Extending the game
-- Add new monsters by editing the monsters data file (name, base stats, rarity)
-- Implement new skills or status effects in the combat system
-- Improve AI or add more locations and events
-
-## License
-MIT — feel free to fork and build on it.
